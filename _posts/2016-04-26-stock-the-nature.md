@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Stock The Nature
-datePublished: '2016-04-26T18:27:05.528Z'
-dateModified: '2016-04-26T18:25:41.602Z'
+datePublished: '2016-04-26T18:29:17.644Z'
+dateModified: '2016-04-26T18:28:20.985Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: stock-the-nature/index.html
 _type: Article
 
