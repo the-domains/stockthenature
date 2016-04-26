@@ -4,11 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-26T18:23:26.356Z'
-dateModified: '2016-04-26T18:22:51.389Z'
+description: Stock The Nature
+datePublished: '2016-04-26T18:27:05.528Z'
+dateModified: '2016-04-26T18:25:41.602Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-26-stock-the-nature.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,19 +20,14 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-stock-the-nature.md
-published: true
 url: stock-the-nature/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22203299-a7c1-4b4e-843d-eef0770c5cb6.jpg)
 
-  
 Stock The Nature
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d50df67-d0de-4aef-9df4-935ca09fd467.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc644b6f-a591-45b2-9ac0-2ede65aee5f8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/149907f5-8303-4873-ade4-e467b15a7544.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a705f112-7ae5-45e2-b5dd-047d33a4231d.jpg)
