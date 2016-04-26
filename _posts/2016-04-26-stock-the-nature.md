@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Stock The Nature
-datePublished: '2016-04-26T14:57:22.422Z'
-dateModified: '2016-04-26T14:48:33.441Z'
+datePublished: '2016-04-26T14:57:43.945Z'
+dateModified: '2016-04-26T14:57:43.495Z'
 title: ''
 author: []
 authors: []
